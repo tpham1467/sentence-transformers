@@ -1,0 +1,9 @@
+.idea
+*.pyc
+examples/output
+sentence_transformers.egg-info
+dist/
+nr_*/
+.vscode/
+__pycache__/
+Pre-trained_models
